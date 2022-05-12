@@ -65,12 +65,20 @@ button.options:hover{
     background-color: #e11451;
 }
 
+button.options:active{
+    background-color: #093f91;
+}
+
 #other{
     background-color: #1f55a7;
 }
 
 #other:hover{
     background-color: #e11451;
+}
+
+#other:active{
+    background-color: #093f91;
 }
 
 button.quick{
@@ -93,4 +101,8 @@ button.quick{
 
 button.quick:hover{
     opacity: 0.4;
+}
+
+button.quick:active{
+    background-color: #093f91;
 }
