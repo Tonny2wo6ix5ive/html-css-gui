@@ -63,6 +63,7 @@ button.options{
 
 button.options:hover{
     background-color: #e11451;
+    opacity: 0.5;
 }
 
 button.options:active{
@@ -100,7 +101,7 @@ button.quick{
 }
 
 button.quick:hover{
-    opacity: 0.4;
+    opacity: 0.5;
 }
 
 button.quick:active{
