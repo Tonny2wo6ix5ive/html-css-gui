@@ -59,6 +59,7 @@ button.options{
     width: 200px;
     height: 70px;
     font-family:cursive;
+    transition: .5s;
 }
 
 button.options:hover{
@@ -94,6 +95,7 @@ button.quick{
     margin: 20px;
     font-size: large;
     border-radius: 5px;
+    transition: .5s;
 }
 
 #button{
